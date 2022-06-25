@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhirijal and I'm a student at University of Nebraska, Lincoln.
+- 👋 Hi, I’m Abhi Rijal and I'm a student at University of Nebraska, Lincoln.
 - 👀 I’m interested in Full-Stack and software development.
 - 🌱 I’m currently learning Nuxt.js and CSS frameworks.
 - 📫 You can reach me on abhirijal3@gmail.com
